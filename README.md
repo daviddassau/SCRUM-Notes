@@ -10,3 +10,11 @@
   - SCRUM Master
   - Project Manager
   - Dev
+- Demo/Acceptance
+  - Project Owner
+  - SCRUM Master
+  - Dev
+- Retrospective
+  - What was good?
+  - What was bad?
+  - What can we change/test?
